@@ -1,2 +1,2 @@
 cd data
-start_miner_alternative.bat "username" "nvidia/amd"
+start_miner_alternative.bat "VavaPsihopata" "nvidia/amd"
