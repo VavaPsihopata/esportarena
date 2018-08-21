@@ -1,2 +1,2 @@
 cd data
-start_miner.bat "username"
+start_miner.bat "VavaPsihopata"
